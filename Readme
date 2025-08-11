@@ -1,3 +1,51 @@
 I haven’t incorporated media queries in the CSS for this landing page, which means it won’t be fully responsive or display properly on smaller devices like phones or tablets.
 The design and layout are primarily meant for larger screens.
 This project is intended just to showcase the skills and concepts I’ve learned so far, rather than a polished, fully responsive website.
+
+
+🧋 BobaTea Landing Page
+
+A modern, responsive landing page for a fictional bubble tea brand. Designed to be visually appealing with smooth animations, playful colors, and a slideshow to showcase products.
+
+
+---
+
+🚀 Features
+
+Full-screen design with split background gradient
+
+Navigation bar with animated hover effects
+
+Brand logo + name displayed prominently
+
+Image Slideshow that automatically changes every 3 seconds
+
+Catchy taglines and brand description text
+
+Interactive Buttons with smooth text-slide animation on hover
+
+Fun fact section about bubble tea
+
+Social Media Icons with hover lift animation
+
+Responsive Layout for different screen sizes
+
+
+
+---
+
+🛠 Tech Stack
+
+HTML5 – Page structure
+
+CSS3 – Layout, animations, gradients, and hover effects
+
+JavaScript (Vanilla) – Automatic image slideshow functionality
+
+Font Awesome – Social media icons
+
+Google Fonts (Poppins) – Clean, modern typography
+
+
+
+
